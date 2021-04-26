@@ -1,4 +1,13 @@
 *
 
 !.gitignore
+!.gitmodules
 !README.md
+!deploy/call_cqtdeployer.ps1
+!package/call_evbconsole.ps1
+!package/call_iscc.ps1
+!package/evb/evb_project_generator.ps1
+!package/iss/iss_code.pas
+!package/iss/iss_file_entries_generator.ps1
+!package/iss/iss_main.iss
+!package/iss/zh_CN
